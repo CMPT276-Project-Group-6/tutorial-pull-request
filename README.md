@@ -6,6 +6,7 @@ And she made changes on her own branch, then made the pull request.
 
 Alice also wants to say HELLO WORLD:
 
-HELLO WORLD
+HELLO WORLD!!!
 
 How will those two line conflict?
+Suddenly something happened and someone changed main.
