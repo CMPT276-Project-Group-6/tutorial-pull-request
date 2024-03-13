@@ -4,4 +4,5 @@ Meanwhile, bob is also making changes to the branches, which means that the bran
 
 Let's say they both made a HELLO WORLD:
 
-HELLO WORLD
+HELLO WORLD 
+Suddenly something happened and someone changed main.
