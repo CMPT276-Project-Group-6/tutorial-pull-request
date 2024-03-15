@@ -12,10 +12,11 @@ Alice also wants to say HELLO WORLD:
 
 HELLO WORLD!!!
 
-How will those two line conflict?
+How will those two line 
 
 Suddenly something happened and someone changed main.
 
 # More stuff
 
 Alice added more stuff today.
+Meanwhile, Charlie deleted old stuff.
