@@ -14,3 +14,8 @@ HELLO WORLD!!!
 
 How will those two line conflict?
 Suddenly something happened and someone changed main.
+
+# More stuff is added
+
+Bob also added more stuff.
+
