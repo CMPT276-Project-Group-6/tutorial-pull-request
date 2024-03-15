@@ -1,6 +1,6 @@
 # tutorial-pull-request-bob
 
-Meanwhile, bob is also making changes to the branches, which means that the branches are diverging. 
+Meanwhile, bob is also making changes to the branches, which means that the branches are diverging.
 
 Let's say they both made a HELLO WORLD:
 
@@ -13,4 +13,9 @@ Alice also wants to say HELLO WORLD:
 HELLO WORLD!!!
 
 How will those two line conflict?
+
 Suddenly something happened and someone changed main.
+
+# More stuff
+
+Alice added more stuff today.
