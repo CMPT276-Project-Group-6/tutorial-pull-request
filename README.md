@@ -16,6 +16,10 @@ How will those two line
 
 Suddenly something happened and someone changed main.
 
+# More stuff is added
+
+Bob also added more stuff.
+
 # More stuff
 
 Alice added more stuff today.
